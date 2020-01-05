@@ -1,0 +1,5 @@
+Promethease
+Version 0.1.166
+Analyzed genome_Darvellv4_v5_Full.zip <br>infiles /tmp/tmpNPHaIs
+On 2020-**-**
+Found 38207 SNPedia genos
